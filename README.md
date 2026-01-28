@@ -1,6 +1,6 @@
 # ghost-ruby
 
-Ruby SDK for the [Ghost CMS](https://ghost.org/) API. Supports both the **Content API** (read-only, public data) and the **Admin API** (full CRUD, file uploads, member management).
+Ruby SDK for the [Ghost](https://ghost.org/) API. Supports both the **Content API** (read-only, public data) and the **Admin API** (full CRUD, file uploads, member management).
 
 Targets **Ghost v5** and **later** only.
 
